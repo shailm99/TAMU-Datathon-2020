@@ -1,0 +1,1499 @@
+country_name,subregion1_name,Total_Confirmed,Total_Deaths,Total_Recovered
+United States of America,Utah,90488,531,66683
+United States of America,Virginia,162941,3388,18831
+United States of America,Virgin Islands,1329,21,1293
+United States of America,Vermont,1903,58,1685
+United States of America,West Virginia,19082,393,14066
+United States of America,Wyoming,8375,57,6360
+Uruguay,,2388,51,
+Uruguay,Artigas Department,,,
+Uruguay,Canelones Department,,,
+Uruguay,Cerro Largo Department,,,
+Uruguay,Colonia Department,,,
+Uruguay,Durazno Department,,,
+Uruguay,Florida Department,,,
+Uruguay,Flores Department,,,
+Uruguay,Lavalleja Department,,,
+Uruguay,Maldonado Department,,,
+Uruguay,Montevideo Department,,,
+Uruguay,Paysandú Department,,,
+Uruguay,Río Negro Department,,,
+Uruguay,Rocha Department,,,
+Uruguay,Rivera Department,,,
+Uruguay,Salto Department,,,
+Uruguay,San José Department,,,
+Uruguay,Soriano Department,,,
+Uruguay,Tacuarembó Department,,,
+Uruguay,Treinta y Tres Department,,,
+Uzbekistan,,62484,519,
+Vatican City,,26,0,
+Saint Vincent and the Grenadines,,64,0,
+Venezuela,,85005,714,
+Venezuela,Capital District,19634,,
+Venezuela,Anzoátegui,1618,,
+Venezuela,Apure,5235,,
+Venezuela,Aragua,4056,,
+Venezuela,Barinas,1512,,
+Venezuela,Bolívar,3415,,
+Venezuela,Carabobo,2672,,
+Venezuela,Cojedes,568,,
+Venezuela,Falcón,1874,,
+Venezuela,Guárico,538,,
+Venezuela,Lara,2269,,
+Venezuela,Mérida,1966,,
+Venezuela,Miranda,11448,,
+Venezuela,Monagas,1163,,
+Venezuela,Nueva Esparta,3510,,
+Venezuela,Portuguesa,706,,
+Venezuela,Sucre,2088,,
+Venezuela,Táchira,5321,,
+Venezuela,Trujillo,947,,
+Venezuela,Yaracuy,2578,,
+Venezuela,Zulia,7468,,
+Venezuela,Vargas,,,
+Venezuela,Delta Amacuro,656,,
+Venezuela,Amazonas,714,,
+British Virgin Islands,,72,1,
+United States Virgin Islands,,1328,20,
+Vietnam,,1124,35,
+Vanuatu,,0,0,
+Wallis and Futuna,,0,0,
+Samoa,,0,0,
+Kosovo,,16459,640,
+Yemen,,2057,597,
+Libya,Al Bayda' Governorate,,,
+Mayotte,,4030,43,
+South Africa,,698184,18309,
+South Africa,Eastern Cape,91373,3397,
+South Africa,Free State,52167,1270,
+South Africa,Gauteng,224158,4597,
+South Africa,KwaZulu-Natal,120859,3111,
+South Africa,Limpopo,16547,435,
+South Africa,Mpumalanga,28466,589,
+South Africa,Northern Cape,19630,237,
+South Africa,North West,31356,393,
+South Africa,Western Cape,113628,4280,
+Zambia,,15659,346,
+Zimbabwe,,8075,231,
+United States of America,Washington,100838,2331,
+United States of America,Wisconsin,171480,1568,127576
+United States of America,Texas,809808,17362,716015
+United States of America,Puerto Rico,56085,743,25071
+United States of America,Rhode Island,27438,1149,2493
+United States of America,South Carolina,161106,3607,80460
+United States of America,South Dakota,31012,304,23576
+United States of America,Tennessee,219355,2836,200164
+United States of America,Oregon,38536,613,5870
+United States of America,Pennsylvania,182502,8496,142016
+United States of America,Mississippi,108139,3152,94165
+United States of America,Montana,21043,230,12854
+United States of America,North Carolina,239338,3899,206471
+United States of America,North Dakota,29658,375,24336
+United States of America,Nebraska,55428,546,37122
+United States of America,New Hampshire,9426,463,8134
+United States of America,Ohio,175843,5038,147063
+United States of America,Oklahoma,103836,1143,88780
+United States of America,Missouri,156142,2598,
+United States of America,Northern Mariana Islands,80,2,29
+United States of America,Iowa,104232,1516,80203
+United States of America,Idaho,51471,521,24983
+United States of America,Illinois,336211,9392,
+United States of America,Indiana,143617,3864,105594
+United States of America,Kansas,70815,838,2340
+United States of America,Kentucky,86410,1341,16928
+United States of America,Louisiana,176952,5707,161792
+Peru,Metropolitan Municipality of Lima,334855,13379,
+Peru,Loreto,20515,959,
+Peru,Madre de Dios,8556,141,
+Peru,Moquegua,13727,275,
+Peru,Pasco,5392,110,
+Peru,Piura,37032,1998,
+United States of America,Massachusetts,141579,9672,118892
+United States of America,Maryland,134042,4028,7851
+United States of America,Maine,5836,144,5070
+United States of America,Michigan,156926,7304,104271
+Mexico,Veracruz,34156,4478,
+Mexico,Yucatán,18836,1621,
+Mexico,Zacatecas,7838,766,
+Malaysia,,18129,170,
+Malaysia,Johor,686,43,
+Malaysia,Kedah,96,7,
+United States of America,Minnesota,117159,2252,104547
+Peru,La Libertad,30775,2245,
+Peru,Lambayeque,27204,1734,
+Peru,Lima Region,54572,1708,
+Mexico,Puebla,31797,4114,
+Mexico,Querétaro,9633,976,
+Mexico,Quintana Roo,12163,1690,
+Mexico,Sinaloa,19241,3282,
+Peru,Ayacucho,12407,316,
+Peru,Cajamarca,20992,494,
+Peru,Callao,35021,1797,
+Peru,Huánuco,16564,401,
+Peru,Huancavelica,7046,121,
+Peru,Ica,28708,1641,
+Peru,Junín,21154,798,
+India,Andhra Pradesh,775470,6382,730109
+India,Arunachal Pradesh,12971,30,9889
+India,Assam,199647,857,170263
+India,Bihar,201887,981,190256
+India,Chandigarh,13532,206,12352
+India,Chhattisgarh,155987,1425,126869
+India,Daman and Diu,,,
+India,Delhi,324459,5946,295699
+India,Dadra and Nagar Haveli and Daman and Diu,3171,2,3067
+India,Goa,40091,531,35610
+India,Gujarat,157473,3619,139250
+India,Himachal Pradesh,18522,257,15587
+India,Haryana,147933,1634,135857
+India,Jharkhand,95400,823,88058
+India,Jammu and Kashmir,86754,1366,76479
+India,Karnataka,751390,9767,628589
+India,Kerala,325213,1114,228993
+Brazil,Paraná,175982,4378,0
+Mexico,State of Mexico,83344,11969,
+Mexico,Michoacán,21461,1753,
+Mexico,Morelos,6040,1107,
+Mexico,Nayarit,6133,772,
+Mexico,Nuevo León,42166,3199,
+Czech Republic,Liberec Region,5677,16,2074
+Czech Republic,Hradec Králové Region,5961,26,1995
+Czech Republic,Pardubice Region,6058,44,2502
+Czech Republic,Vysocina Region,6578,48,2657
+Czech Republic,South Moravian Region,14188,110,5887
+Czech Republic,Olomouc Region,8320,48,3168
+Czech Republic,Zlin Region,9015,46,2956
+Czech Republic,Moravian-Silesian Region,15878,133,7668
+Germany,,348557,9734,
+Germany,Brandenburg,5284,182,
+Germany,Berlin,20087,239,
+Germany,Baden-Württemberg,57824,1965,
+Germany,Bavaria,77029,2741,
+Germany,Bremen,3380,61,
+Germany,Hesse,24279,578,
+Germany,Hamburg,9615,278,
+Germany,Mecklenburg-Vorpommern,1595,21,
+Germany,Lower Saxony,25148,722,
+Germany,North Rhine-Westphalia,86472,1942,
+Germany,Rhineland-Palatinate,13021,271,
+Germany,Schleswig-Holstein,5545,166,
+Germany,Saarland,4182,180,
+Germany,Saxony,9419,256,
+Germany,Saxony-Anhalt,3152,71,
+Germany,Thuringia,4722,199,
+Djibouti,,5443,61,
+Denmark,,34023,677,
+Dominica,,33,0,
+Dominican Republic,,120066,2189,
+Dominican Republic,Distrito Nacional,,,
+Dominican Republic,Azua Province,,,
+Dominican Republic,Baoruco Province,,,
+Dominican Republic,Barahona Province,,,
+Dominican Republic,Dajabón Province,,,
+Dominican Republic,Duarte Province,,,
+Dominican Republic,Elías Piña Province,,,
+Dominican Republic,El Seibo Province,,,
+Dominican Republic,Espaillat Province,,,
+Dominican Republic,Independencia,,,
+Dominican Republic,La Altagracia Province,,,
+Dominican Republic,La Romana Province,,,
+Dominican Republic,La Vega Province,,,
+Dominican Republic,María Trinidad Sánchez Province,,,
+Dominican Republic,Monte Cristi Province,,,
+Dominican Republic,Pedernales Province,,,
+Dominican Republic,Peravia Province,,,
+Dominican Republic,Puerto Plata Province,,,
+Dominican Republic,Hermanas Mirabal Province,,,
+Dominican Republic,Samaná Province,,,
+Dominican Republic,San Cristóbal Province,,,
+Dominican Republic,San Juan Province,,,
+Dominican Republic,San Pedro de Macorís,,,
+Dominican Republic,Sánchez Ramírez Province,,,
+Dominican Republic,Santiago Province,,,
+Dominican Republic,Santiago Rodríguez Province,,,
+Dominican Republic,Valverde Province,,,
+Dominican Republic,Monseñor Nouel Province,,,
+Dominican Republic,Monte Plata Province,,,
+Dominican Republic,Hato Mayor Province,,,
+Dominican Republic,San José de Ocoa Province,,,
+Dominican Republic,Santo Domingo Province,,,
+Algeria,,53777,1836,
+Ecuador,,150360,12306,
+Ecuador,Azuay Province,,,
+Ecuador,Bolívar Province,,,
+Ecuador,Carchi Province,,,
+Ecuador,Orellana Province,,,
+Ecuador,Esmeraldas,,,
+Ecuador,Cañar Province,,,
+Ecuador,Guayas Province,,,
+Ecuador,Chimborazo Province,,,
+Ecuador,Imbabura Province,,,
+Ecuador,Loja Province,,,
+Ecuador,Manabí Provin,,,
+Ecuador,Napo Province,,,
+Ecuador,El Oro Province,,,
+Ecuador,Pichincha Province,,,
+Ecuador,Los Ríos Province,,,
+Ecuador,Morona-Santiago Province,,,
+Ecuador,Santo Domingo de los Tsáchilas Province,,,
+Ecuador,Santa Elena Province,,,
+Ecuador,Tungurahua Province,,,
+Ecuador,Sucumbíos Province,,,
+Ecuador,Galápagos Province,,,
+Ecuador,Cotopaxi Province,,,
+Ecuador,Pastaza Province,,,
+Ecuador,Zamora-Chinchipe Province,,,
+Estonia,,3980,68,
+Egypt,,105033,6088,
+Western Sahara,,766,1,
+Eritrea,,422,0,
+Spain,,921374,33553,
+Spain,Andalucía,81425,2045,
+Spain,Aragón,41680,1492,
+Spain,Asturias,7504,365,
+Spain,Cantabria,7522,231,
+Spain,Ceuta,793,12,
+Spain,Castilla y León,59769,3307,
+Spain,Castilla-La Mancha,40940,3198,
+Spain,Islas Canarias,15561,252,8790
+Colombia,Valle Del Cauca,71346,2733,62127
+Colombia,Arauca,2432,74,1959
+Colombia,Casanare,3520,69,2504
+Colombia,Putumayo,4067,198,3539
+Colombia,San Andrés and Providencia,1706,24,1516
+Colombia,Amazonas,2644,124,2628
+Colombia,Guainía,1043,18,968
+Colombia,Guaviare,1170,22,975
+Colombia,Vaupés,958,12,911
+Colombia,Vichada,722,7,655
+Costa Rica,,91780,1134,
+Costa Rica,Alajuela Province,,,
+Costa Rica,Provincia de Cartago,,,
+Costa Rica,Guanacaste Province,,,
+Costa Rica,Heredia Province,,,
+Costa Rica,Limón Province,,,
+Costa Rica,Puntarenas Province,,,
+Costa Rica,San José Province,,,
+Cuba,,6062,123,
+Cuba,Pinar del Río Province,,,
+Cuba,Havana Province,,,
+Cuba,Matanzas Province,,,
+Cuba,Villa Clara Province,,,
+Cuba,Cienfuegos Province,,,
+Cuba,Sancti Spíritus Province,,,
+Cuba,Ciego de Ávila Province,,,
+Cuba,Camagüey Province,,,
+Cuba,Las Tunas Province,,,
+Cuba,Holguín Province,,,
+Cuba,Granma Province,,,
+Cuba,Santiago de Cuba Province,,,
+Cuba,Guantánamo Province,,,
+Cuba,Artemisa Province,,,
+Cuba,Mayabeque Province,,,
+Cuba,Isla de la Juventud,,,
+Cape Verde,,7444,79,
+Curaçao,,645,1,
+Christmas Island,,,,
+Cyprus,,2181,25,
+Czech Republic,,149010,1230,
+Czech Republic,Prague,26158,210,12445
+Czech Republic,Central Bohemian Region,19797,125,8673
+Czech Republic,South Bohemian Region,7192,46,2515
+Czech Republic,Plzeň Region,8051,44,3197
+Czech Republic,Karlovy Vary Region,2738,75,1392
+Czech Republic,Ústí nad Labem Region,7539,60,2756
+Colombia,Huila,16337,522,13301
+Colombia,La Guajira,9066,376,8102
+Colombia,Magdalena,16184,941,14609
+Colombia,Meta,19303,525,17156
+Colombia,Nariño,19682,790,17528
+Colombia,Norte de Santander,18298,1038,15892
+Mexico,Chiapas,6581,1091,
+Mexico,Mexico City,132156,9860,
+Mexico,Coahuila,27497,1957,
+Mexico,Colima,5228,565,
+Mexico,Durango,9503,674,
+Mexico,Guerrero,19833,1980,
+Peru,Puno,16101,321,
+Peru,San Martín,19509,717,
+Peru,Cusco,21374,440,
+Mexico,Oaxaca,17707,1483,
+United States of America,Georgia,321400,7320,
+United States of America,Guam,4396,62,2295
+United States of America,Hawaii,13922,183,10883
+Brazil,Santa Catarina,213066,2765,
+Brazil,Sergipe,77172,2025,
+Peru,Áncash,24257,1330,
+Peru,Apurímac,5177,99,
+Peru,Arequipa,43173,1411,
+Brazil,Rio Grande do Norte,68765,2377,
+Brazil,Rondônia,65386,1340,
+Brazil,Roraima,49968,637,
+Brazil,Rio Grande do Sul,185778,4648,0
+Mexico,Jalisco,28298,3416,
+Israel,Northern District,31628,209,25660
+Israel,Jerusalem District,47268,220,39587
+Israel,Central District,58605,421,47685
+Brazil,Minas Gerais,290137,7240,0
+Netherlands,North Brabant,30758,1602,
+Netherlands,North Holland,42151,917,
+Netherlands,Overijssel,9955,360,
+Netherlands,Utrecht,18121,464,
+Netherlands,Zeeland,2144,76,
+Netherlands,South Holland,62820,1500,
+Norway,,15953,278,
+Norway,Oslo,5221,,
+Norway,Rogaland,817,,
+Norway,Møre og Romsdal,319,,
+Norway,Nordland,231,,
+Norway,Svalbard,,,
+Israel,Judea and Samaria Area,21740,72,17632
+Colombia,,932752,30944,826831
+Colombia,Antioquia,137551,3035,121362
+Colombia,Atlántico,67565,3339,64882
+Colombia,Bogotá D.C.,292738,7948,261261
+Colombia,Bolívar,30512,875,29296
+Colombia,Boyacá,10280,242,7815
+Chile,Magallanes,11109,114,
+Chile,Maule,17533,375,
+Chile,Ñuble,6898,137,
+Chile,Santiago Metropolitan Region,263194,9581,
+Chile,Tarapacá,11980,236,
+Chile,Valparaíso,28429,973,
+Cameroon,,21441,423,
+China,,91436,4746,80458
+China,Anhui,991,6,985
+China,Beijing,929,9,752
+China,Chongqing,583,6,576
+China,Fujian,363,1,361
+China,Guangdong,1650,8,1636
+China,Gansu,167,2,165
+China,Guangxi,254,2,252
+China,Guizhou,147,2,145
+China,Henan,1276,22,1254
+China,Hubei,68135,4512,64435
+China,Hebei,349,6,340
+China,Hainan,171,6,165
+China,Hong Kong,1655,10,1254
+China,Heilongjiang,947,13,934
+China,Hunan,1019,4,1015
+China,Jilin,155,2,153
+China,Jiangsu,654,0,654
+China,Jiangxi,937,1,936
+China,Liaoning,164,2,150
+China,Macau,46,0,45
+China,Inner Mongolia,249,1,237
+China,Ningxia,75,0,75
+China,Qinghai,18,0,18
+China,Sichuan,599,3,590
+China,Shandong,793,7,785
+China,Shanghai,732,7,691
+China,Shaanxi,321,3,315
+China,Shanxi,201,0,198
+China,Tianjin,203,3,195
+China,Taiwan,451,7,440
+China,Xinjiang,77,3,73
+China,Tibet,1,0,1
+China,Yunnan,188,2,183
+China,Zhejiang,1270,1,1267
+Brazil,Mato Grosso do Sul,68325,1278,
+Brazil,Mato Grosso,121145,3372,
+United States of America,Alaska,10549,66,6066
+United States of America,Alabama,169162,2756,74238
+United States of America,Arkansas,96524,1645,86447
+United States of America,American Samoa,0,0,
+United States of America,Arizona,228748,5789,37782
+Colombia,Cesar,22872,765,19960
+Colombia,Córdoba,25190,1730,22386
+Colombia,Cundinamarca,37500,1166,33622
+Colombia,Chocó,4003,175,3821
+Argentina,Buenos Aires Province,450595,18394,
+Argentina,City of Buenos Aires,136136,5250,
+Argentina,San Luis,2595,39,
+Argentina,Entre Ríos,8662,414,
+Argentina,La Rioja,6204,231,
+Argentina,Santiago del Estero,5942,98,
+Argentina,Chaco,10857,554,
+Argentina,San Juan,1271,55,
+Argentina,Catamarca,400,1,
+Argentina,La Pampa,1346,42,
+Argentina,Mendoza,31919,688,
+Argentina,Misiones,196,90,
+Argentina,Formosa,135,2,
+India,Ladakh,5441,65,4461
+India,Lakshadweep,0,0,0
+India,Maharashtra,1576062,41501,1344368
+India,Meghalaya,8303,75,5736
+India,Manipur,14715,109,11245
+India,Madhya Pradesh,157936,2736,141273
+India,Mizoram,2229,0,2127
+India,Nagaland,7604,17,6051
+India,Odisha,264149,1157,241385
+India,Punjab,126737,3980,116165
+India,Puducherry,32768,571,27671
+India,Rajasthan,169289,1723,146185
+India,Sikkim,3544,59,3097
+India,Telangana,218714,1256,194653
+India,Tamil Nadu,679191,10532,627703
+India,Tripura,29190,320,25742
+India,Uttar Pradesh,449935,6589,408083
+India,Uttarakhand,57042,829,50155
+India,West Bengal,313188,5931,274757
+British Indian Ocean Territory,,,,
+Iraq,,416802,10086,
+Iraq,Al Anbar,4570,67,4045
+Iraq,Erbil,20696,605,15569
+Iraq,Basra,33610,810,29790
+Iraq,Babylon,15116,493,13770
+Iraq,Baghdad,122549,2428,105586
+Iraq,Dohuk,15603,339,7023
+Iraq,Diyala,11697,225,10404
+Iraq,Dhi Qar,21620,724,20181
+Iraq,Halabja,,,
+Iraq,Karbala,20565,471,19430
+Iraq,Kirkuk,14638,562,12188
+Iraq,Maysan,14641,374,13690
+Iraq,Al Muthanna,11030,212,9861
+Iraq,Najaf,18156,259,17377
+Iraq,Nineveh,11545,296,9520
+Iraq,Al-Qādisiyyah,15604,377,14247
+Iraq,Saladin,8261,191,6783
+Iraq,Sulaymaniyah,20166,1074,12684
+Iraq,Wasit,25370,405,16227
+Iran,,517835,29605,
+Iceland,,3837,10,
+Italy,,391611,36427,247872
+Italy,Piedmont,41895,4194,29643
+Italy,Piemont,21151,,
+Italy,Aosta Valley,1660,146,1132
+Italy,Lombardy,121130,17044,84958
+Italy,Veneto,34277,2244,23895
+Italy,Friuli Venezia Giulia,6093,359,3935
+Italy,Liguria,17281,1632,12408
+Italy,Emilia-Romagna,39692,4504,27155
+Italy,Tuscany,21017,1187,11315
+Italy,Umbria,4210,91,2158
+Italy,Marche,9133,997,6387
+Italy,Lazio,22796,1006,9473
+Italy,Abruzzo,5825,491,3184
+Brazil,Piauí,94733,2101,
+Colombia,Caldas,8479,220,6429
+Colombia,Caquetá,9939,388,8691
+Colombia,Cauca,11422,349,9532
+United Kingdom,England,584843,38524,
+United Kingdom,Northern Ireland,25177,608,
+United Kingdom,Scotland,45232,2594,
+United Kingdom,North East England,43825,2347,
+United Kingdom,North West England,143636,6737,
+United Kingdom,"Yorkshire and the Humber, England",82292,3813,
+United Kingdom,"East Midlands, England",52056,3048,
+United Kingdom,"West Midlands, England",59937,4737,
+United Kingdom,East of England,39958,4200,
+United Kingdom,London Region,68740,6298,
+United Kingdom,South East England,55353,5068,
+United Kingdom,South West England,26378,1930,
+United Kingdom,Wales,34005,1703,
+Grenada,,25,0,
+Georgia,,15327,124,
+French Guiana,,10233,69,
+Guernsey,,258,13,
+Ghana,,47151,310,
+Gibraltar,,516,0,
+Greenland,,16,0,
+Gambia,,3644,118,
+Brazil,Alagoas,86393,2062,0
+Brazil,Amazonas,136708,4031,0
+Brazil,Amapá,47935,704,
+Brazil,Bahia,306629,6648,0
+Brazil,São Paulo,973142,35125,0
+United States of America,Florida,744980,15735,
+Brazil,Espírito Santo,17923,506,
+Brazil,Goiás,202754,4529,0
+Peru,Tacna,12516,222,
+Peru,Tumbes,7687,306,
+Peru,Ucayali,16972,332,
+French Polynesia,,3573,13,
+Papua New Guinea,,578,7,
+Philippines,,348698,6497,
+Philippines,Metro Manila,259209,4872,45271
+Philippines,Ilocos Region,1532,42,156
+Philippines,Cagayan Valley,1562,18,355
+Philippines,Central Luzon,13252,180,548
+Philippines,Bicol Region,2237,56,317
+Philippines,Western Visayas,9927,162,3657
+Philippines,Central Visayas,20150,1173,9618
+Philippines,Eastern Visayas,4120,40,3408
+Philippines,Zamboanga Peninsula,2036,80,566
+Philippines,Northern Mindanao,2392,48,624
+Brazil,Tocantins,66865,922,
+Bahamas,,5385,112,
+Bhutan,,316,0,
+Bouvet Island,,,,
+Botswana,,5242,20,
+Belarus,,85734,916,
+Belize,,2619,40,
+Canada,,191732,9699,161490
+Canada,Alberta,21443,288,18417
+Canada,British Columbia,11034,250,9257
+Canada,Manitoba,3098,38,1533
+Canada,New Brunswick,292,2,201
+Canada,Newfoundland and Labrador,284,4,271
+Canada,Nova Scotia,1092,65,1024
+Canada,Northwest Territories,5,0,5
+Canada,Nunavut,0,0,0
+Canada,Ontario,62196,3022,53291
+Canada,Prince Edward Island,65,0,60
+Canada,Quebec,89963,6005,75467
+Canada,Saskatchewan,2232,25,1936
+Canada,Yukon,15,0,15
+Cocos Islands,,,,
+Democratic Republic of the Congo,,10934,281,
+Democratic Republic of the Congo,Kongo Central,518,,
+Democratic Republic of the Congo,Bandundu Province,,,
+Democratic Republic of the Congo,Bas-Uele,,,
+Democratic Republic of the Congo,Équateur,15,,
+Democratic Republic of the Congo,Haut-Katanga Province,334,,
+Democratic Republic of the Congo,Haut-Lomami District,1,,
+Democratic Republic of the Congo,Haut-Uele,86,,
+Democratic Republic of the Congo,Ituri Interim Administration,157,,
+Democratic Republic of the Congo,Katanga Province,,,
+Democratic Republic of the Congo,Kasaï-Central,3,,
+Democratic Republic of the Congo,Kasai-Oriental,3,,
+Democratic Republic of the Congo,Kwango Province,1,,
+Democratic Republic of the Congo,Kwilu,6,,
+Democratic Republic of the Congo,Kinshasa,8188,,
+Democratic Republic of the Congo,Kasaï District,1,,
+Democratic Republic of the Congo,Kasaï-Occidental,,,
+Democratic Republic of the Congo,Lomami Province,,,
+Democratic Republic of the Congo,Lualaba Province,120,,
+Democratic Republic of the Congo,Maniema,2,,
+Democratic Republic of the Congo,Mai-Ndombe Province,,,
+Democratic Republic of the Congo,Mongala District,,,
+Democratic Republic of the Congo,North Kivu,983,,
+Democratic Republic of the Congo,Nord-Ubangi District,33,,
+Democratic Republic of the Congo,Orientale Province,,,
+Democratic Republic of the Congo,Sankuru District,,,
+Democratic Republic of the Congo,South Kivu,307,,
+Democratic Republic of the Congo,Sud-Ubangi,6,,
+Democratic Republic of the Congo,Tanganyika Province,6,,
+Democratic Republic of the Congo,Tshopo,50,,
+Democratic Republic of the Congo,Tshuapa District,1,,
+Central African Republic,,4855,62,
+Republic of the Congo,,5156,92,
+Switzerland,,71140,1817,
+Switzerland,Aargau,3479,58,2595
+Switzerland,Appenzell Innerrhoden,117,0,
+Switzerland,Appenzell Ausserrhoden,304,3,
+Switzerland,Bern,5366,104,
+Switzerland,Basel-Landschaft,1506,37,1175
+Switzerland,Basel-Stadt,1548,54,1308
+Switzerland,Fribourg,3452,106,185
+Switzerland,Geneva,10617,318,973
+Switzerland,Glarus,248,13,
+Switzerland,Grisons,1387,50,
+Switzerland,Jura,682,8,
+Switzerland,Lucerne,1892,24,
+Switzerland,Neuchâtel,1727,94,
+Switzerland,Nidwalden,248,4,
+Switzerland,Obwalden,221,3,1
+Switzerland,St. Gallen,2780,43,226
+Switzerland,Schaffhausen,277,8,
+Switzerland,Solothurn,1119,18,
+Switzerland,Schwyz,1352,30,689
+Switzerland,Thurgau,1099,19,95
+Switzerland,Ticino,4245,351,937
+Switzerland,Uri,199,7,145
+Switzerland,Vaud,12857,449,
+Switzerland,Valais,3698,160,333
+Switzerland,Zug,845,9,433
+Switzerland,Zürich,11466,152,
+Ivory Coast,,20257,121,
+Cook Islands,,0,0,
+Chile,,486496,13434,
+Chile,Aysén,789,2,
+Brazil,Ceará,239062,8921,0
+Russia,Saratov Oblast,17756,132,11978
+Russia,North Ossetia-Alania,6420,70,4976
+Russia,Smolensk Oblast,7406,165,5936
+Russia,Saint Petersburg,50573,3376,32850
+Russia,Stavropol Krai,18560,368,13472
+Russia,Sverdlovsk Oblast,32193,678,23953
+Russia,Tatarstan,5664,,
+Russia,Tambov Oblast,8632,46,7103
+Russia,Tomsk Oblast,9582,101,7181
+Russia,Tula Oblast,10968,396,9813
+Russia,Tver Oblast,7654,281,4814
+Russia,Tuva,8350,88,7133
+Russia,Tyumen Oblast,11275,51,8025
+Russia,Udmurtia,7082,104,4931
+Russia,Ulyanovsk Oblast,17919,207,14474
+Russia,Volgograd Oblast,17463,172,15117
+Russia,Vladimir Oblast,8267,240,6189
+Russia,Vologda Oblast,5645,55,4258
+Russia,Voronezh Oblast,21132,234,18755
+Russia,Yamalo-Nenets Avtonomnyy Okrug,17787,106,13776
+Russia,Yaroslavl Oblast,9745,52,9011
+Russia,Jewish Avtonomnyy Okrug,1349,19,803
+Russia,Zabaykalsky Krai,8297,74,5778
+Rwanda,,4953,33,
+Saudi Arabia,,341062,5127,
+Solomon Islands,,3,0,
+Seychelles,,148,0,
+Sudan,,13691,836,
+Sudan,Central Darfur,6,,
+Sudan,East Darfur,21,,
+Sudan,North Darfur,146,,
+Sudan,South Darfur,39,,
+Sudan,West Darfur,34,,
+Sudan,Al Qadarif,274,,
+Sudan,West Kordofan,69,,
+Sudan,Al Jazirah,1137,,
+Sudan,Kassala,227,,
+Sudan,Khartoum,9836,,
+Sudan,North Kordofan,203,,
+Sudan,South Kordofan,15,,
+Sudan,Blue Nile,30,,
+Sudan,Northern,385,,
+Sudan,River Nile,438,,
+Sudan,White Nile,191,,
+Sudan,Red Sea,391,,
+Sudan,Sennar,243,,
+Sweden,,102407,5910,
+Sweden,Stockholm,28592,2416,
+Sweden,Uppsala,4880,245,
+Sweden,Södermanland,2664,255,
+Sweden,Östergötland,4517,279,
+Sweden,Örebro,3549,172,
+Sweden,Västmanland,3382,183,
+Sweden,Jönköping,5811,183,
+Sweden,Kronoberg,1894,122,
+Sweden,Kalmar,975,64,
+Sweden,Gotland,368,7,
+Sweden,Blekinge,858,18,
+Sweden,Skåne,6920,285,
+Sweden,Halland,2914,89,
+Sweden,Västra Götaland,21475,869,
+Sweden,Värmland,1398,75,
+Sweden,Dalarna,2820,183,
+Sweden,Gävleborg,3564,170,
+Sweden,Västernorrland,2008,137,
+Sweden,Jämtland Härjedalen,1512,64,
+Sweden,Västerbotten,1162,32,
+Sweden,Norrbotten,1937,88,
+Singapore,,57892,28,
+Saint Helena,,0,0,
+Slovenia,,11518,180,693
+Svalbard and Jan Mayen,,,,
+Slovakia,,24225,71,
+Sierra Leone,,2323,73,
+San Marino,,781,42,
+Senegal,,15348,316,
+Somalia,,3864,99,
+Suriname,,5083,108,
+South Sudan,,2817,55,
+São Tomé and Príncipe,,929,15,
+El Salvador,,31061,908,
+El Salvador,Ahuachapán Department,,,
+El Salvador,Cabañas Department,,,
+El Salvador,Chalatenango Department,,,
+El Salvador,Cuscatlán Department,,,
+El Salvador,La Libertad Department,,,
+El Salvador,Morazán Department,,,
+El Salvador,La Paz Department,,,
+El Salvador,Santa Ana Department,,,
+El Salvador,San Miguel Department,,,
+El Salvador,Sonsonate Department,,,
+El Salvador,San Salvador Department,,,
+El Salvador,San Vicente Department,,,
+El Salvador,La Unión Department,,,
+El Salvador,Usulután Department,,,
+Sint Maarten,,729,22,
+Syria,,4931,238,
+Swaziland,,5733,115,
+Turks and Caicos Islands,,696,6,
+Chad,,1350,92,
+French Southern Territories,,,,
+Togo,,1996,51,
+Thailand,,3669,59,
+Tajikistan,,10374,80,
+Tokelau,,0,0,
+East Timor,,29,0,
+Turkmenistan,,0,0,
+Tunisia,,34790,512,
+Tonga,,0,0,
+Turkey,,342143,9080,
+Trinidad and Tobago,,5154,93,
+Tuvalu,,0,0,
+Taiwan,,535,7,
+Tanzania,,509,21,
+Ukraine,,287231,5408,10475
+Ukraine,Vinnytsia,8070,140,4934
+Ukraine,Volyn,10515,218,6194
+Ukraine,Luhansk,2229,32,737
+Ukraine,Dnipropetrovsk,10257,221,4624
+Ukraine,Donetsk,6658,66,1169
+Ukraine,Zhytomyr,9286,163,5213
+Ukraine,Zakarpattia,11461,328,5655
+Ukraine,Zaporizhzhya,6162,95,1767
+Ukraine,Ivano-Frankivsk,16163,375,8251
+Ukraine,Kiev,29412,557,10475
+Ukraine,Kiev Oblast,12207,261,6995
+Ukraine,Kirovohrad,1468,67,1012
+Russia,Sevastopol,352,,
+Russia,Republic of Crimea,1241,,
+Ukraine,Lviv,24171,672,9122
+Ukraine,Mykolaiv,5336,110,1353
+Ukraine,Odessa,18013,279,2853
+Ukraine,Poltava,5469,92,1764
+Ukraine,Rivne,15398,196,11937
+Ukraine,Sumy,8252,114,2595
+Ukraine,Ternopil,16916,215,11720
+Ukraine,Kharkiv,27457,434,5535
+Ukraine,Kherson,2264,43,949
+Ukraine,Khmelnytskyi,10098,175,4128
+Ukraine,Cherkasy,6387,68,2552
+Ukraine,Chernihiv,6379,87,1213
+Ukraine,Chernivtsi,17203,400,9172
+Uganda,,10117,96,
+United States Minor Outlying Islands,,,,
+United States of America,,7833851,215199,
+Malaysia,Kelantan,156,15,
+Malaysia,Malacca,255,37,
+Malaysia,Negeri Sembilan,994,72,
+Malaysia,Pahang,365,27,
+Malaysia,Penang,121,13,
+Malaysia,Perak,258,30,
+Malaysia,Perlis,18,4,
+Malaysia,Selangor,2006,75,
+Malaysia,Terengganu,111,18,
+Malaysia,Sabah,362,25,
+Malaysia,Sarawak,565,32,
+Malaysia,Kuala Lumpur,2422,271,
+Malaysia,Labuan,17,5,
+Malaysia,Putrajaya,119,13,
+Mozambique,,10537,73,
+Mozambique,Niassa Province,233,0,147
+Mozambique,Manica Province,109,2,97
+Mozambique,Gaza Province,345,2,309
+Mozambique,Inhambane Province,236,1,219
+Mozambique,Maputo Province,1568,21,1132
+Mozambique,Maputo,4222,46,1827
+Mozambique,Nampula Province,585,5,465
+Mozambique,Cabo Delgado Province,720,1,664
+Mozambique,Zambezia Province,621,1,460
+Mozambique,Sofala,245,1,210
+Mozambique,Tete Province,312,3,252
+Namibia,,12103,130,
+New Caledonia,,27,0,
+Niger,,1205,69,
+Norfolk Island,,,,
+Nigeria,,60982,1116,
+Nicaragua,,4297,154,
+Nicaragua,North Caribbean Coast Autonomous Region,,,
+Nicaragua,South Caribbean Coast Autonomous Region,,,
+Nicaragua,Boaco Department,,,
+Nicaragua,Carazo Department,,,
+Nicaragua,Chinandega Department,,,
+Nicaragua,Chontales Department,,,
+Nicaragua,Estelí Department,,,
+Nicaragua,Granada Department,,,
+Nicaragua,Jinotega Department,,,
+Nicaragua,León Department,,,
+Nicaragua,Madriz Department,,,
+Nicaragua,Managua Department,,,
+Nicaragua,Masaya Department,,,
+Nicaragua,Matagalpa Department,,,
+Nicaragua,Nueva Segovia Department,,,
+Nicaragua,Rivas Department,,,
+Nicaragua,Río San Juan Department,,,
+Netherlands,,210284,6689,
+Netherlands,Drenthe,2985,67,
+Netherlands,Flevoland,3811,102,
+Netherlands,Friesland,3665,72,
+Netherlands,Gelderland,20189,735,
+Netherlands,Groningen,3979,22,
+Netherlands,Limburg,9706,774,
+Brazil,Maranhão,172176,3735,0
+Isle of Man,,348,24,
+India,,7370468,112161,
+India,Andaman and Nicobar Islands,4068,56,3822
+Italy,Molise,864,26,573
+Italy,Campania,23033,499,8180
+Italy,Apulia,10734,630,5431
+Italy,Basilicata,1169,38,548
+Italy,Calabria,2589,104,1581
+Italy,Sicily,11269,360,4975
+Italy,Sardinia,5736,171,2470
+Italy,South Tyrol,4493,293,2897
+Italy,Trentino-Alto Adige,6715,466,5574
+Jersey,,487,32,
+Jamaica,,8067,160,
+Jordan,,33009,282,
+Japan,,91431,1650,
+Japan,Hokkaido,2469,108,
+Japan,Aomori,83,1,
+Japan,Iwate,26,0,
+Japan,Miyagi,522,2,
+Japan,Akita,56,0,
+Japan,Yamagata,81,1,
+Japan,Fukushima,347,6,
+Japan,Ibaraki,723,18,
+Japan,Tochigi,458,1,
+Japan,Gunma,766,19,
+Japan,Saitama,5282,102,
+Japan,Chiba,4457,76,
+Japan,Tokyo,28604,431,
+Japan,Kanagawa,7835,154,
+Japan,Niigata,180,0,
+Japan,Toyama,423,26,
+Japan,Ishikawa,788,47,
+Japan,Fukui,254,11,
+Japan,Yamanashi,195,6,
+Japan,Nagano,323,3,
+Japan,Gifu,642,10,
+Japan,Shizuoka,574,2,
+Japan,Aichi,5638,91,
+Japan,Mie,538,7,
+Japan,Shiga,520,8,
+Japan,Kyoto,1914,27,
+Japan,Osaka,11414,226,
+Japan,Hyōgo,2979,60,
+Japan,Nara,595,9,
+Japan,Wakayama,254,4,
+Japan,Tottori,35,0,
+Japan,Shimane,140,0,
+Japan,Okayama,169,1,
+Japan,Hiroshima,639,4,
+Japan,Yamaguchi,207,2,
+Japan,Tokushima,149,9,
+Japan,Kagawa,99,2,
+Japan,Ehime,116,6,
+Japan,Kōchi,140,4,
+Japan,Fukuoka,5120,99,
+Japan,Saga,248,0,
+Japan,Nagasaki,241,3,
+Japan,Kumamoto,734,8,
+Japan,Ōita,159,2,
+Japan,Miyazaki,366,1,
+Japan,Kagoshima,463,12,
+Japan,Okinawa,2853,54,
+Kenya,,43143,805,
+Kyrgyzstan,,51020,1103,
+Cambodia,,283,0,
+Kiribati,,0,0,
+Comoros,,496,7,
+Saint Kitts and Nevis,,19,0,
+North Korea,,0,0,
+South Korea,,25035,441,
+South Korea,Seoul,4520,10,
+South Korea,Busan,336,3,
+South Korea,Daegu,7104,162,
+South Korea,Incheon,806,2,
+South Korea,Gwangju,465,2,
+South Korea,Daejeon,329,2,
+South Korea,Ulsan,125,1,
+South Korea,Gyeonggi,3788,29,
+South Korea,Gangwon,211,3,
+South Korea,Chungbuk,149,,
+South Korea,Chungnam,390,,
+South Korea,Jeonbuk,96,,
+South Korea,Jeonnam,166,,
+South Korea,Gyeongbuk,1478,50,
+South Korea,Gyeongnam,259,,
+South Korea,Jeju,51,,
+South Korea,Sejong,76,,
+Kuwait,,114015,684,
+Cayman Islands,,225,1,
+Kazakhstan,,144487,2136,
+Laos,,23,0,
+Lebanon,,58645,501,
+Saint Lucia,,31,0,
+Liechtenstein,,177,1,
+Sri Lanka,,5244,13,
+Liberia,,1372,82,
+Lesotho,,1833,42,
+Lithuania,,6760,110,
+Luxembourg,,10244,133,
+Latvia,,3056,41,
+Libya,,46676,681,
+Libya,Benghazi,962,26,541
+Libya,Butnan,,,
+Libya,Bani Walid,312,10,218
+Libya,Derna,,,
+Libya,Ghadames,,,
+Libya,Gharyan,,,
+Libya,Ghat,,,
+Libya,Jabal al Akhdar,24,0,20
+Libya,Jabal al Gharbi,1801,36,1135
+Libya,Al-Jafra,32,0,0
+Libya,Al Jufrah,23,3,0
+Libya,Kufra,207,15,135
+Libya,Khoms,874,14,471
+Libya,Murqub,106,3,66
+Libya,Kikla,4,0,0
+Libya,Marj,10,0,0
+Libya,Murzuq,,,
+Libya,Misurata,3069,66,761
+Libya,Nalut,1,0,0
+Libya,Nuqat al Khams,291,6,65
+Libya,Sabha,1274,44,1021
+SR,,,,
+Libya,Sirte,12,2,0
+Libya,Sabratha,218,6,137
+Libya,Tripoli,13586,20,7972
+Libya,Al Wahat,367,21,189
+Libya,Wadi al Hayaa,,,
+Libya,Wadi al Shati,262,9,0
+Libya,Yafran,,,
+Libya,Zawia,759,13,361
+Libya,Zintan,255,2,180
+Morocco,,163650,2772,
+Monaco,,253,2,
+Moldova,,65076,1530,
+Montenegro,,14543,217,
+Madagascar,,16754,237,
+Philippines,Davao Region,2720,68,1658
+Philippines,Soccsksargen,1307,17,360
+Philippines,Caraga,1065,14,294
+Philippines,Autonomous Region in Muslim Mindanao,996,33,12
+Philippines,Cordillera Administrative Region,1074,16,474
+Philippines,Calabarzon,44447,535,4624
+Philippines,Mimaropa,1163,19,409
+Pakistan,,321218,6614,
+Pakistan,Balochistan,4393,,
+Pakistan,Gilgit-Baltistan,711,,
+Pakistan,Islamabad,2589,,
+Pakistan,Azad Kashmir,255,,
+Pakistan,Khyber Pakhtunkhwa,10027,,
+Pakistan,Punjab,26240,,
+Pakistan,Sindh,28245,,
+Poland,,149903,3308,
+Poland,Lower Silesia,8511,215,
+Poland,Kuiavia-Pomerania,6935,113,
+Poland,Lublin,5858,103,
+Poland,Lubusz,2263,28,
+Poland,Łódź,11595,321,
+Poland,Lesser Poland,20821,305,
+Poland,Mazovia,21642,530,
+Poland,Opole,4286,113,
+Poland,Subcarpathia,8225,231,
+Poland,Podlaskie,3957,78,
+Poland,Pomerania,9764,162,
+Poland,Silesia,28361,651,
+Poland,Swietokrzyskie,4638,96,
+Poland,Warmia-Masuria,3287,47,
+Poland,Greater Poland,13581,402,
+Poland,West Pomeranian,3884,45,
+Pitcairn Islands,,0,0,
+Puerto Rico,,56085,743,
+Palestine,,57441,471,
+Portugal,,93294,2128,30049
+Portugal,Norte,17957,821,16
+Portugal,Algarve,683,15,0
+Portugal,Centro,4245,249,10
+Portugal,Lisbon Metropolitan Area,21584,527,17
+Portugal,Alentejo,562,18,0
+Portugal,Azores,151,15,0
+Portugal,Madeira,95,0,0
+Palau,,0,0,
+Paraguay,,51845,1131,
+Paraguay,Concepción Department,,,
+Paraguay,Alto Paraná Department,,,
+Paraguay,Central Department,,,
+Paraguay,Ñeembucú Department,,,
+Paraguay,Amambay Department,,,
+Paraguay,Canindeyú,,,
+Paraguay,Presidente Hayes Department,,,
+Paraguay,Alto Paraguay Department,,,
+Paraguay,Boquerón Department,,,
+Paraguay,San Pedro Department,,,
+Paraguay,Cordillera Department,,,
+Paraguay,Guairá Department,,,
+Paraguay,Caaguazú,,,
+Paraguay,Caazapá,,,
+Paraguay,Itapúa,,,
+Paraguay,Misiones Department,,,
+Paraguay,Paraguarí Department,,,
+Paraguay,Capital District,,,
+Qatar,,128803,222,
+Réunion,,4678,17,
+Romania,,168490,5674,20799
+Serbia,,35454,770,
+Russia,,1369313,23723,
+Russia,Adygea,4749,39,3929
+Russia,Altai Republic,1606,,
+Russia,Altai Krai,16039,270,14735
+Russia,Amur Oblast,5068,60,4520
+Russia,Arkhangelsk Oblast,16452,271,10700
+Russia,Astrakhan Oblast,8020,139,6725
+Russia,Bashkortostan,9605,47,8634
+Russia,Belgorod Oblast,10080,59,8735
+Russia,Bryansk Oblast,10737,46,8401
+Russia,Buryatia,8419,92,6960
+Russia,Chechnya,2517,43,2045
+Russia,Chelyabinsk Oblast,17123,147,12709
+Russia,Chukotka Avtonomnyy Okrug,218,2,194
+Russia,Chuvashia,9105,111,7640
+Russia,Dagestan,14769,709,12961
+Russia,Ingushetia,6508,86,5215
+Russia,Irkutsk Oblast,21281,322,17882
+Russia,Ivanovo Oblast,9879,154,7521
+Russia,Kamchatka Krai,5024,70,3425
+Russia,Kabardino-Balkaria,8739,110,6870
+Russia,Karachay-Cherkessia,8325,30,5088
+Russia,Krasnodar Krai,15599,339,11055
+Russia,Kemerovo Oblast,12585,165,8850
+Russia,Kaliningrad Oblast,5495,91,3888
+Russia,Kurgan Oblast,4703,56,3925
+Russia,Khabarovsk Krai,13617,122,10413
+Russia,Khanty-Mansi Avtonomnyy Okrug,25335,208,22443
+Russia,Kirov Oblast,9896,152,6249
+Russia,Khakassia,5298,54,4402
+Russia,Kalmykia,7700,85,4760
+Russia,Kaluga Oblast,10447,74,8320
+Russia,Komi Republic,10387,150,8222
+Russia,Kostroma Oblast,5806,95,4146
+Russia,Republic of Karelia,4981,38,3388
+Russia,Kursk Oblast,9276,63,7190
+Russia,Krasnoyarsk Krai,22534,593,16387
+Russia,Leningrad Oblast,9644,103,5907
+Russia,Lipetsk Oblast,6924,56,5872
+Russia,Magadan Oblast,3625,32,2700
+Russia,Mari El,5366,59,4542
+Russia,Mordovia,7272,45,6012
+Russia,Moscow Oblast,79567,1452,59770
+Russia,Moscow,352995,5850,270226
+Russia,Murmansk Oblast,17110,247,13944
+Russia,Nenets Avtonomnyy Okrug,372,0,136
+Russia,Novgorod Oblast,6199,87,4106
+Russia,Nizhny Novgorod Oblast,36193,644,30331
+Russia,Novosibirsk Oblast,14695,519,12889
+Russia,Omsk Oblast,13037,358,11021
+Russia,Orenburg Oblast,14981,93,13323
+Russia,Oryol Oblast,10122,143,7897
+Russia,Perm Krai,11363,337,7686
+Russia,Penza Oblast,12734,143,9943
+Russia,Primorsky Krai,13110,126,11079
+Russia,Pskov Oblast,6274,67,4355
+Russia,Rostov Oblast,26021,633,20786
+Russia,Ryazan Oblast,9259,55,7022
+Russia,Yakutia,11119,106,7674
+Russia,Sakhalin Oblast,6559,0,4627
+Russia,Samara Oblast,13714,219,10834
+Brazil,Pará,228068,6551,0
+Brazil,Paraíba,119987,2804,
+Brazil,Pernambuco,145096,8190,0
+Israel,Tel Aviv District,49442,353,39453
+Brazil,Rio de Janeiro,262006,18291,0
+United States of America,California,870380,16839,
+United States of America,Colorado,82443,2187,6968
+United States of America,Connecticut,62028,4540,9651
+United States of America,District of Columbia,16255,641,12731
+United States of America,Delaware,22724,581,11724
+Colombia,Quindío,6186,151,4405
+Colombia,Risaralda,13772,335,11753
+Colombia,Santander,36396,1599,30697
+Colombia,Sucre,14842,640,13714
+Colombia,Tolima,15027,514,12835
+Andorra,,3190,59,
+United Arab Emirates,,111437,452,
+Afghanistan,,40026,1481,
+Afghanistan,Balkh,2218,94,1461
+Afghanistan,Bamyan,885,12,707
+Afghanistan,Badghis,673,12,537
+Afghanistan,Badakhshan,451,7,99
+Afghanistan,Baghlan,676,30,288
+Afghanistan,Daykundi,469,3,101
+Afghanistan,Farah,421,15,65
+Afghanistan,Faryab,254,17,237
+Afghanistan,Ghazni,566,47,479
+Afghanistan,Ghor,542,13,184
+Afghanistan,Helmand,213,27,178
+Afghanistan,Herat,5296,160,3751
+Afghanistan,Jowzjan,196,6,188
+Afghanistan,Kabul,15144,539,14341
+Afghanistan,Kandahar,1529,37,1351
+Afghanistan,Kapisa,205,10,193
+Afghanistan,Kunduz,663,20,430
+Afghanistan,Khost,429,38,389
+Afghanistan,Kunar,419,19,382
+Afghanistan,Laghman,387,4,151
+Afghanistan,Logar,546,27,540
+Afghanistan,Nangarhar,1454,79,1094
+Afghanistan,Nimruz,374,8,314
+Afghanistan,Nuristan,75,0,17
+Afghanistan,Panjshir,285,16,208
+Afghanistan,Parwan,397,18,271
+Afghanistan,Paktia,1168,34,592
+Afghanistan,Paktika,206,6,144
+Afghanistan,Samangan,333,14,311
+Afghanistan,Sar-e Pol,130,6,124
+Afghanistan,Takhar,1120,36,735
+Afghanistan,Urozgan,65,5,61
+Afghanistan,Maidan Wardak,330,16,301
+Afghanistan,Zabul,144,7,125
+Antigua and Barbuda,,112,3,
+Anguilla,,3,0,
+Albania,,16212,439,
+Armenia,,61460,1056,
+Netherlands Antilles,,,,
+Angola,,7096,228,
+Antarctica,,,,
+Argentina,,877026,30519,
+Argentina,Salta,14525,700,
+Brazil,Distrito Federal,190505,3203,
+Brazil,Federal District,190505,3203,0
+Brazil,Espirito Santo,129796,3524,
+Mexico,Tlaxcala,7644,1109,
+Marshall Islands,,0,0,
+Macedonia,,22170,815,
+Mali,,3368,132,
+Myanmar,,32351,765,
+Mongolia,,320,0,
+Macau,,,,
+Northern Mariana Islands,,80,2,
+Martinique,,2257,24,
+Mauritania,,7585,163,
+Montserrat,,13,1,
+Malta,,4152,45,
+Mauritius,,404,10,
+Maldives,,11113,35,
+Malawi,,5836,181,
+Mexico,,829396,84898,
+Mexico,Aguascalientes,7585,659,
+Mexico,Baja California,19897,3630,
+Mexico,Baja California Sur,10676,490,
+Mexico,Campeche,6037,827,
+Mexico,Chihuahua,11927,1435,
+Chile,Antofagasta,20243,514,
+Chile,Arica y Parinacota,9138,164,
+Chile,Araucanía,9834,130,
+Chile,Atacama,7479,79,
+Chile,Biobío,26157,401,
+Chile,Coquimbo,12129,230,
+Chile,O'Higgins,17177,455,
+Chile,Los Lagos,11820,111,
+Chile,Los Ríos,2603,26,
+Mexico,Guanajuato,42197,2996,
+Mexico,Hidalgo,13166,2012,
+Norway,Jan Mayen,,,
+Norway,Viken,4369,,
+Norway,Innlandet,748,,
+Norway,Vestfold og Telemark,511,,
+Norway,Agder,567,,
+Norway,Vestland,2166,,
+Norway,Trøndelag,759,,
+Norway,Troms og Finnmark,410,,
+Nepal,,121745,694,
+Nauru,,0,0,
+Niue,,0,0,
+New Zealand,,1524,25,
+Oman,,108296,1071,
+Panama,,122128,2519,
+Panama,Bocas del Toro Province,,,
+Panama,Panamá Oeste Province,,,
+Panama,Coclé Province,,,
+Panama,Colón Province,,,
+Panama,Chiriquí Province,,,
+Panama,Darién Province,,,
+Panama,Herrera Province,,,
+Panama,Los Santos Province,,,
+Panama,Panamá Province,,,
+Panama,Veraguas Province,,,
+Panama,Emberá-Wounaan Comarca,,,
+Panama,Guna Yala,,,
+Panama,Ngöbe-Buglé Comarca,,,
+Peru,,856951,33512,
+Peru,Amazonas,15726,219,
+United States of America,New Jersey,218783,16197,35654
+United States of America,New Mexico,34958,922,19127
+United States of America,Nevada,88081,1700,2293
+United States of America,New York,484135,32935,78006
+Argentina,Neuquén,11749,252,
+Argentina,Río Negro,16046,532,
+Argentina,Santa Fe,60529,862,
+Argentina,Tucumán,27293,434,
+Argentina,Chubut,5057,131,
+Argentina,Tierra del Fuego,5871,104,
+Argentina,Corrientes,1863,30,
+Argentina,Córdoba,52209,798,
+Argentina,Jujuy,16988,678,
+Argentina,Santa Cruz,6244,115,
+American Samoa,,0,0,
+Austria,,60764,894,
+Austria,Burgenland,1272,13,893
+Austria,Lower Austria,9391,131,7548
+Austria,Vienna,22571,280,16320
+Austria,Carinthia,1382,13,1016
+Austria,Styria,4665,185,3534
+Austria,Upper Austria,9052,78,7264
+Austria,Salzburg,3509,44,2388
+Austria,Tyrol,8023,111,6631
+Austria,Vorarlberg,2799,27,2024
+Australia,,27362,904,
+Australia,Australian Capital Territory,113,3,110
+Australia,New South Wales,4326,55,2951
+Australia,Northern Territory,33,0,34
+Australia,Queensland,1164,7,1154
+Australia,South Australia,479,4,471
+Australia,Tasmania,230,13,215
+Australia,Victoria,20317,816,19279
+Australia,Western Australia,709,9,683
+Aruba,,4229,32,
+Azerbaijan,,43280,619,
+Bosnia and Herzegovina,,32230,970,
+Barbados,,215,7,
+Israel,Southern District,35738,215,29384
+Israel,Haifa District,24116,245,19454
+Bangladesh,,384559,5608,
+Bangladesh,Bandarban District,41,0,0
+Bangladesh,Barguna District,81,1,0
+Bangladesh,Bogra District,269,0,0
+Bangladesh,Brahmanbaria District,186,2,0
+Bangladesh,Bagerhat District,46,0,0
+Bangladesh,Barisal District,182,0,0
+Bangladesh,Bhola District,69,0,0
+Bangladesh,Comilla District,1195,4,1
+Bangladesh,Chandpur District,255,0,0
+Bangladesh,Chittagong District,2998,2,2
+Bangladesh,Cox's Bazar District,969,0,1
+Bangladesh,Chuadanga District,111,0,1
+Bangladesh,Dhaka District,21717,103,77
+Bangladesh,Dinajpur District,182,1,0
+Bangladesh,Faridpur District,348,0,0
+Bangladesh,Feni District,257,0,0
+Bangladesh,Gopalganj District,287,0,0
+Bangladesh,Gazipur District,1165,0,1
+Bangladesh,Gaibandha District,63,0,4
+Bangladesh,Habiganj District,175,0,0
+Bangladesh,Jamalpur District,294,3,0
+Bangladesh,Jessore District,165,0,0
+Bangladesh,Jhenaidah District,57,0,0
+Bangladesh,Joypurhat District,183,1,0
+Bangladesh,Jhalokati District,39,0,0
+Bangladesh,Kishoreganj District,314,1,0
+Bangladesh,Khulna District,159,0,0
+Bangladesh,Kurigram District,74,0,0
+Bangladesh,Khagrachari District,47,0,0
+Bangladesh,Kushtia District,126,0,0
+Bangladesh,Lakshmipur District,144,1,0
+Bangladesh,Lalmonirhat District,42,0,0
+Bangladesh,Manikganj District,167,0,0
+Bangladesh,Mymensingh District,571,3,0
+Bangladesh,Munshiganj District,985,4,0
+Bangladesh,Madaripur District,203,2,9
+Bangladesh,Magura District,37,0,0
+Bangladesh,Moulvibazar District,116,3,0
+Bangladesh,Meherpur District,30,1,0
+Bangladesh,Narayanganj District,2598,41,25
+Bangladesh,Netrokona District,269,0,0
+Bangladesh,Narsingdi District,191,1,1
+Bangladesh,Narail District,34,0,0
+Bangladesh,Natore District,67,0,0
+Bangladesh,Chapai Nawabganj District,64,0,0
+Bangladesh,Nilphamari District,138,0,0
+Bangladesh,Noakhali District,838,1,0
+Bangladesh,Naogaon District,212,0,0
+Bangladesh,Pabna District,84,1,0
+Bangladesh,Pirojpur District,38,0,0
+Bangladesh,Patuakhali District,89,1,0
+Bangladesh,Panchagarh District,52,0,0
+Bangladesh,Rajbari District,90,0,0
+Bangladesh,Rajshahi District,81,2,0
+Bangladesh,Rangpur District,511,1,0
+Bangladesh,Rangamati Hill District,68,0,0
+Bangladesh,Sherpur District,121,0,0
+Bangladesh,Satkhira District,49,0,0
+Bangladesh,Sirajganj District,42,0,0
+Bangladesh,Sylhet District,676,2,0
+Bangladesh,Sunamganj District,217,0,0
+Bangladesh,Shariatpur District,153,1,0
+Bangladesh,Tangail District,55,3,0
+Bangladesh,Thakurgaon District,74,0,0
+Bangladesh,Barisal Division,,,
+Bangladesh,Chittagong Division,,,
+Bangladesh,Dhaka Division,,,
+Bangladesh,Khulna Division,,,
+Bangladesh,Rajshahi Division,,,
+Bangladesh,Rangpur Division,,,
+Bangladesh,Sylhet Division,,,
+Bangladesh,Mymensingh Division,,,
+Belgium,,191866,10327,
+Belgium,Brussels,30956,,
+Belgium,Antwerp,29323,,
+Belgium,Flemish Brabant,16167,,
+Belgium,Limburg,11088,,
+Belgium,East Flanders,16428,,
+Belgium,West Flanders,13944,,
+Belgium,Walloon Brabant,7650,,
+Belgium,Hainaut,22833,,
+Belgium,Liège,25986,,
+Belgium,Luxembourg,4505,,
+Belgium,Namur,8766,,
+Burkina Faso,,2335,65,
+Bulgaria,,27507,944,
+Bahrain,,76954,289,
+Burundi,,531,1,
+Benin,,2496,41,
+Bermuda,,185,9,
+Brunei,,147,3,
+Bolivia,,139141,8377,
+Bolivia,Beni,,,
+Bolivia,Cochabamba,,,
+Bolivia,Chuquisaca,,,
+Bolivia,La Paz,,,
+Bolivia,Pando,,,
+Bolivia,Oruro,,,
+Bolivia,Potosí,,,
+Bolivia,Santa Cruz,,,
+Bolivia,Tarija,,,
+Caribbean Netherlands,,150,3,
+Brazil,,5140863,151747,4084182
+Brazil,Acre,27885,657,
+Guinea,,11255,70,
+Equatorial Guinea,,5068,83,
+Greece,,23947,482,
+South Georgia and the South Sandwich Islands,,,,
+Guatemala,,99765,3453,
+Guatemala,Alta Verapaz Department,,,
+Guatemala,Baja Verapaz Department,,,
+Guatemala,Chimaltenango Department,,,
+Guatemala,Chiquimula Department,,,
+Guatemala,Escuintla Department,,,
+Guatemala,Guatemala Department,,,
+Guatemala,Huehuetenango Department,,,
+Guatemala,Izabal Department,,,
+Guatemala,Jalapa Department,,,
+Guatemala,Jutiapa Department,,,
+Guatemala,Petén Department,,,
+Guatemala,El Progreso Department,,,
+Guatemala,Quiché Department,,,
+Guatemala,Quetzaltenango Department,,,
+Guatemala,Retalhuleu Department,,,
+Guatemala,Sacatepéquez Department,,,
+Guatemala,San Marcos Department,,,
+Guatemala,Sololá Department,,,
+Guatemala,Santa Rosa Department,,,
+Guatemala,Suchitepéquez Department,,,
+Guatemala,Totonicapán Department,,,
+Guatemala,Zacapa Department,,,
+Guam,,3427,63,
+Guinea-Bissau,,2389,41,
+Guyana,,3589,106,
+Gaza Strip,,,,
+Hong Kong,,,,
+Heard Island and McDonald Islands,,,,
+Honduras,,85458,2533,
+Honduras,Atlántida Department,,,
+Honduras,Choluteca Department,,,
+Honduras,Colón Department,,,
+Honduras,Comayagua Department,,,
+Honduras,Copán Department,,,
+Honduras,Cortés Department,,,
+Honduras,El Paraíso Department,,,
+Honduras,Francisco Morazán Department,,,
+Honduras,Gracias a Dios Department,,,
+Honduras,Bay Islands Department,,,
+Honduras,Intibucá Department,,,
+Honduras,Lempira Department,,,
+Honduras,La Paz Department,,,
+Honduras,Ocotepeque Department,,,
+Honduras,Olancho Department,,,
+Honduras,Santa Bárbara Department,,,
+Honduras,Valle Department,,,
+Honduras,Yoro Department,,,
+Croatia,,22534,344,
+Haiti,,8908,231,
+Haiti,Artibonite,550,38,
+Haiti,Centre,464,12,
+Haiti,Grand'Anse,167,13,
+Haiti,Nord,614,38,
+Haiti,Nord-Est,288,12,
+Haiti,Nippes,141,5,
+Haiti,Nord-Ouest,207,11,
+Haiti,Ouest,5974,98,
+Haiti,Sud,263,6,
+Haiti,Sud-Est,265,9,
+Hungary,,43025,1085,
+Indonesia,,349160,12268,
+Indonesia,Aceh,,,
+Indonesia,Bali,,,
+Indonesia,Bangka Belitung Islands,,,
+Indonesia,Bengkulu,,,
+Indonesia,Banten,,,
+Indonesia,Gorontalo,,,
+Indonesia,Jambi,,,
+Indonesia,West Java,,,
+Indonesia,East Java,,,
+Indonesia,Jakarta,,,
+Indonesia,Central Java,,,
+Indonesia,West Kalimantan,,,
+Indonesia,East Kalimantan,,,
+Indonesia,Riau Islands,,,
+Indonesia,South Kalimantan,,,
+Indonesia,Central Kalimantan,,,
+Indonesia,North Kalimantan,,,
+Indonesia,Lampung,,,
+Indonesia,Maluku,,,
+Indonesia,North Maluku,,,
+Indonesia,West Nusa Tenggara,,,
+Indonesia,East Nusa Tenggara,,,
+Indonesia,Papua,,,
+Indonesia,West Papua,,,
+Indonesia,Riau,,,
+Indonesia,North Sulawesi,,,
+Indonesia,West Sumatra,,,
+Indonesia,Southeast Sulawesi,,,
+Indonesia,South Sulawesi,,,
+Indonesia,West Sulawesi,,,
+Indonesia,South Sumatra,,,
+Indonesia,Central Sulawesi,,,
+Indonesia,North Sumatra,,,
+Indonesia,Yogyakarta,,,
+Ireland,,46429,1838,
+Israel,,297130,2084,
+Spain,Cataluña,155405,5905,
+Spain,Extremadura,13602,639,
+Spain,Galicia,25300,810,
+Spain,Islas Baleares,15670,327,
+Spain,Region de Murcia,25282,164,
+Spain,Comunidad de Madrid,259701,9903,
+Spain,Melilla,1428,10,
+Spain,Navarra,23707,639,
+Spain,País Vasco,51095,1979,
+Spain,La Rioja,3851,435,
+Spain,Comunidad Valenciana,47440,1677,
+Ethiopia,,87169,1325,
+Finland,,13133,350,
+Fiji,,32,2,
+Falkland Islands,,13,0,
+Micronesia,,0,0,
+Faroe Islands,,480,0,
+France,,780994,32868,
+France,Auvergne-Rhône-Alpes,89526,2108,1412031
+France,Bourgogne-Franche-Comté,17362,1114,696256
+France,Saint Barthélemy,67,0,
+France,Brittany,16504,303,235256
+France,Corsica,2102,68,47021
+France,Centre-Val de Loire,16719,623,373712
+France,Grand Est,31191,3772,2179278
+France,French Guiana,,,
+France,Guadeloupe,6908,96,
+France,Hauts-de-France,70917,2140,1176636
+France,Île-de-France,214162,8392,5137189
+France,La Réunion,,,
+France,Mayotte,,,
+France,Saint Martin,501,8,
+France,Martinique,,,
+France,Nouvelle-Aquitaine,38081,575,404971
+France,Normandy,23582,520,311354
+France,Occitanie,61265,686,542989
+France,Provence-Alpes-Côte d'Azur,71661,1263,1063677
+France,Pays de la Loire,23327,546,386775
+France,Saint Pierre and Miquelon,16,0,
+Gabon,,8869,54,
+United Kingdom,,689257,43429,
+Mexico,San Luis Potosí,23850,1751,
+Mexico,Sonora,25122,2920,
+Mexico,Tabasco,32360,2794,
+Mexico,Tamaulipas,29486,2338,
